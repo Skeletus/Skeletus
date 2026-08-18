@@ -57,9 +57,9 @@ Lightweight database engine with indexing and SQL-style operations.
 
 ## 📫 Contact
 
-- LinkedIn: [Jesús Arias](TU_LINKEDIN)
+- LinkedIn: [Jesús Arias](https://www.linkedin.com/in/jesus-arturo-arias-lopez-9b82902aa/)
 - GitHub: [@Skeletus](https://github.com/Skeletus)
-- Email: `TU_EMAIL`
+- Email: `ja2958110@gmail.com`
 
 ---
 
